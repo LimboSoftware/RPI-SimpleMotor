@@ -8,7 +8,7 @@ if you havent already make sure your PI can access GIthub <br>
 
 Installing/ Running the programme <br>
 1. Open a new termial <br>
-2. type 'git clone https://github.com/LimboSoftware/Limbo-Software-.git' <br>
+2. type 'git clone https://github.com/LimboSoftware/Raspberry-Pi-wifi-Remote-Control-Car.git' <br>
 3. open terminal <br>
 4.type 'sudo python cardrvie.py' <br>
 5. the programme is now running, if everything is hooked up your car will drive  <br>
